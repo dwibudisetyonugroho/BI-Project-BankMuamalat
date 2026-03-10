@@ -74,7 +74,7 @@ Based on these findings, I propose the following three strategies to increase sa
 Below are key snapshots from the interactive Looker Studio dashboard built for this project. 
 *(Click the link below to view the live, interactive version)*
 
-### [🔗 View Live Dashboard Here](INSERT_YOUR_LOOKER_STUDIO_LINK_HERE)
+### [🔗 View Live Dashboard Here](https://lookerstudio.google.com/reporting/2425933c-c491-4c00-a0a2-65e9b6b5d07a)
 
 ![Dashboard Overview](assets/dashboard_overview.png)
 *Figure 1: Executive Overview showing Total Sales (175.5M) and Total Quantity (11.6K).*
@@ -88,9 +88,8 @@ Below are key snapshots from the interactive Looker Studio dashboard built for t
 ---
 
 ## 📂 Project Deliverables
-*   **Final Submission PDF:** [Download FinalTask_BankMuamalat_BI Analyst_[Your Name].pdf](submission/FinalTask_BankMuamalat_BI Analyst_[Your Name].pdf)
+*   **Final Submission PDF:** [Download FinalTask_BankMuamalat_BI Analyst.pdf](submission/FinalTask_BankMuamalat_BI%20Analyst.pdf)
 *   **SQL Query Source:** [View `query_master_sales.sql`](sql/query_master_sales.sql)
-*   **Data Dictionary Reference:** [View Schema Documentation](data_dictionary_reference.md) *(Optional: Create this if you want to be extra thorough)*
 
 ---
 
@@ -98,6 +97,6 @@ Below are key snapshots from the interactive Looker Studio dashboard built for t
 I am actively seeking opportunities as a Business Intelligence Analyst. If you found this project interesting, let's connect!
 
 *   **Email:** setyonugrohodwibudi@gmail.com
-*   **Website:** budinugroho.com 
+*   **Website:** www.budinugroho.com 
 
 ---
